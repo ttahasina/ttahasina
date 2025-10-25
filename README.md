@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ttahasina
+- 👋 Hi, I’m Tahasina Nur Tonni
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/tmilost/tmilost/blob/main/warmth.gif">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/tmilost/tmilost/blob/main/donut.gif">
